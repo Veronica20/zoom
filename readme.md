@@ -8,7 +8,8 @@
 
 #Installation
 
-4.git clone git@github.com:Veronica20/zoom.git
+4.git clone https://github.com/Veronica20/zoom.git
+
 
 5.cd zoom 
 
@@ -16,6 +17,8 @@
 
 7.npm install
 
-8.configure db in .env file  
+8.npm run development
 
-9.php artisan migrate 
+9.configure db in .env file  
+
+10.php artisan migrate 
