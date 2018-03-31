@@ -18,7 +18,7 @@
 
 8.npm run development
 
-9. copy  .env.example to .env
+9.copy  .env.example to .env
 
 10.configure db in .env file  
 
