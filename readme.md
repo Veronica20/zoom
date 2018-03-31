@@ -10,7 +10,6 @@
 
 4.git clone https://github.com/Veronica20/zoom.git
 
-
 5.cd zoom 
 
 6.composer install 
@@ -19,6 +18,8 @@
 
 8.npm run development
 
-9.configure db in .env file  
+9. copy  .env.example to .env
 
-10.php artisan migrate 
+10.configure db in .env file  
+
+11.php artisan migrate 
