@@ -22,4 +22,6 @@
 
 10.configure db in .env file  
 
-11.php artisan migrate 
+11.php artisan key:generate
+
+12.php artisan migrate 
